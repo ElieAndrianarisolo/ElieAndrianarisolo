@@ -2,16 +2,12 @@
   <h1> Hi, I'm Elie 👋 </h1>
 </div>
 
----
-
-## 👨🏼‍💻 About Me:
+## 👨‍💻 About Me:
 I am a French student in Computer Science at the National Institute of Applied Sciences of Lyon 🎓
 I am currently studying Data Science 📊 and Artificial Intelligence 🤖
 
 • 📫 You can contact me on LinkedIn: www.linkedin.com/in/elie-a-10ba81313
 • 📩 Or by email: elie.jonhson.andrianarisolo@gmail.com
-
----
 
 ## :hammer_and_wrench: Languages and Tools:
 <div align="center">
