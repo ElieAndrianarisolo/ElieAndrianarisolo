@@ -23,7 +23,12 @@ I am currently studying Data Analysis 📊, Data Engineering 🚰, Data Science 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" title="GCP"  alt="GCP" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
-  <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" title="Git" **alt="Git" width="70" height="70"/>
+  <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" **alt="PowerBI" width="70" height="70"/>
+  <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="Excel" **alt="Excel" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" **alt="Angular" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="ApacheSpark" **alt="ApacheSpark" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" **alt="Hadoop" width="70" height="70"/>
 </div>
 
 
