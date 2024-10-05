@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me:
 I am a French student in Computer Science at the National Institute of Applied Sciences of Lyon 🎓.
-I am currently studying Data Science 📊 and Artificial Intelligence 🤖.
+I am currently studying Data Analysis 📊, Data Engineering 🚰, Data Science 🧪 and Artificial Intelligence 🤖.
 
 - 📫 You can contact me on LinkedIn: www.linkedin.com/in/elie-a-10ba81313
 - 📩 Or by email: elie.jonhson.andrianarisolo@gmail.com
@@ -23,6 +23,7 @@ I am currently studying Data Science 📊 and Artificial Intelligence 🤖.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" title="GCP"  alt="GCP" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
+  <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" title="Git" **alt="Git" width="70" height="70"/>
 </div>
 
 
