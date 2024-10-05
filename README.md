@@ -29,6 +29,9 @@ I am currently studying Data Analysis 📊, Data Engineering 🚰, Data Science 
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" **alt="Angular" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="ApacheSpark" **alt="ApacheSpark" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" **alt="Hadoop" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="ApacheKafka" **alt="ApacheKafka" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="ApacheAirflow" **alt="ApacheAirflow" width="70" height="70"/>
 </div>
 
 
