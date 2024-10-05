@@ -6,7 +6,7 @@
 I am a French student in Computer Science at the National Institute of Applied Sciences of Lyon 🎓.
 I am currently studying Data Analysis 📊, Data Engineering 🚰, Data Science 🧪 and Artificial Intelligence 🤖.
 
-- 📫 You can contact me on [LinkedIn](www.linkedin.com/in/elie-a-10ba81313)
+- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/elie-a-10ba81313)
 - 📩 Or by [email](mailto:elie.jonhson.andrianarisolo@gmail.com)
 
 ## :hammer_and_wrench: Languages and Tools:
