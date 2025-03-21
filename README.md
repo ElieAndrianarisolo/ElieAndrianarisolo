@@ -9,7 +9,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&)](https://www.linkedin.com/in/elie-andrianarisolo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=github)](https://yourportfolio.com/) 
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=github)](https://yourportfolio.com/)  -->
 
 
 ## :hammer_and_wrench: Here are the tools, librairies, technologies and frameworks I've worked with:
